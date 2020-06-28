@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,600,700');
+body{
+	font-family: 'Cabin', sans-serif;
+	font-size: 14px;
+	color: #212529;
+}
+.header-area.sticky {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+	width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+}
+.header-area.sticky .navbar-default{
+	background-color: #884bdf;
+}
+
+.btn{
+	background: #FFB200;
+	color: #fff;
+	padding: 10px 30px;
+	letter-spacing: 1px;
+	border-radius: 20px;
+}
+
+#home{
+	background-image: url("../img/fondohome.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: #fff;
+	padding: 10% 0;
+	text-align: center;
+}
+
+#home h1{
+	font-size: 60px;
+	margin-bottom: 10px;
+}
+
+#sobre-mi img{
+	width: 100%;
+}
+
+#sobre-mi{
+	margin: 60px 0;
+}
+
+#sobre-mi p{
+	padding-top: 40px;
+	font-size: 18px;
+	width: 80%;
+	margin-top: 80px;
+	
+}
+
+#sobre-mi h2{
+	font-weight: 800;
+}
+
+.sub-titulos{
+	font-weight: 800;
+	text-align: justify;
+}
+
+#trabajos h2{
+	margin-bottom: 30px;
+}
+
+#trabajos{
+	
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: #fff;
+	padding: 10% 0;
+	text-align: center;
+}
+
+#trabajos a{
+	margin-top: 20px;
+}
+
+.bg-trabajos{
+	background-color: rgba(255,213,6,0.75);
+	color: #fff;
+	padding: 5% 5%;
+	border-radius: 10px;
+}
+
+#servicios{
+	margin-bottom: 150px;
+}
+
+#servicios h2{
+	margin-bottom: 150px;
+}
+
+.circulo{
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	line-height: 100px;
+	/*border: 1px solid #ddd;*/
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	box-shadow: 2px 2px 5px 2px #ddd;
+	font-size: 40px;
+	color: rgba(255,213,6,1.00);
+
+}
+
+#contacto h2{
+	margin-bottom: 60px;
+}
+
+#contacto{
+	background-color: #FFB200;
+	color: #fff;
+	padding: 30px 0;
+}
+
+.btn-contacto{
+	background-color: rgba(255,213,6,1.00);
+}
+
+#programas h2{
+	margin-bottom: 60px;
+}
+
+#programas{
+	padding: 60px;
+}
+
+#programas img{
+	margin-bottom: 30px;
+}
+
+.titulo{
+	margin-bottom: 60px;
+	margin-top: 60px;
+}
+
+#diseño .bg-trabajos{
+	padding-top: 1%;
+}
+
+#edicion .bg-trabajos{
+	padding: 1%;
+}
+
+#edicion{
+	margin-top: 50px;
+}
+
+h4{
+	margin-top: 10px;
+}
+
+#ilustracion{
+	margin-bottom: 60px;
+}
+
+.margin{
+	margin-top: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
